@@ -1,0 +1,96 @@
+[
+    {
+        "difficulty": "easy",
+        "theme": "theme-0",
+        "poolSize": 2,
+        "questions": [
+            {
+                "title": "Quiz question one",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 1
+            },
+            {
+                "title": "Quiz question two",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "difficulty": "hard",
+        "theme": "theme-1",
+        "poolSize": 12,
+        "questions": [
+            {
+                "title": "Quiz question one",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 3
+            },
+            {
+                "title": "Quiz question two",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 3
+            },
+            {
+                "title": "Quiz question three",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 1
+            },
+            {
+                "title": "Quiz question four",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 3
+            },
+            {
+                "title": "Quiz question five",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 3
+            },
+            {
+                "title": "Quiz question six",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "answer": 2
+            }
+        ]
+    }
+]
